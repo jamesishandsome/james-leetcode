@@ -1,3 +1,7 @@
+from collections import deque
+from typing import List
+
+
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
         m, n = len(heights), len(heights[0])
