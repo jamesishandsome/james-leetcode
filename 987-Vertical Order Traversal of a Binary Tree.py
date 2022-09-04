@@ -1,6 +1,6 @@
 # Definition for a binary tree node.
 from collections import defaultdict
-from typing import Optional
+from typing import Optional, List
 
 
 class TreeNode:
